@@ -1,0 +1,15 @@
+{
+  "WorkspaceID": "dv.ws.5caad5c1-5d5b-4058-bd87-bb9e70a7b60b",
+  "RepoID": "dv.repo.e11a68d2-2e81-42e1-ad10-39261d84e6df",
+  "Path": "C:\\Users\\laura\\UnrealEngine\\The-Sterile-Zone",
+  "AccountID": "GitHub_180186951",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.8",
+  "Paused": false,
+  "ShouldDownload": false,
+  "RepoName": "The-Sterile-Zone",
+  "ReadOnly": false,
+  "DigestMethod": "sha1",
+  "OrganizationTier": "UNKNOWN"
+}
